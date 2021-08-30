@@ -1,1 +1,1 @@
-These codes will assist you to creating an ATM in python
+This python program shows you how to create an atm using python
